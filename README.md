@@ -1,135 +1,122 @@
-<!-- 🌐 Peter Aziz Ghobrial | Professional GitHub Profile -->
-<!-- Aesthetic, senior-level, and professionally branded -->
+# 👋 Hi, I'm Peter Aziz Ghobrial  
+**Information Technology & Software Engineer | AI & Mobile Developer | Network Systems Specialist**
 
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=0078FF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Peter+Aziz+Ghobrial;💻+Information+Technology+%26+Software+Engineer;🚀+AI+%7C+Mobile+%7C+Web+Development;🌐+Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
-</p>
+🌍 **Location:** Alexandria, Egypt  
+📧 **Email:** b.ayad3755@su.edu.eg  
+🔗 **LinkedIn:** [linkedin.com/in/peterazizghobrial](https://cut.sa/e5tjl)  
+📸 **Instagram:** [instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
+💻 **GitHub:** [github.com/PeterAzizGhobrial](https://github.com/PeterAzizGhobrial)
 
----
-
-<h2 align="center">💼 About Me</h2>
-
-<p align="center">
-🎯 <b>Information Technology & Software Engineer</b><br>
-📍 Alexandria, Egypt <br>
-📧 <a href="mailto:b.ayad3755@su.edu.eg">b.ayad3755@su.edu.eg</a> <br>
-🔗 <a href="https://cut.sa/e5tjl">LinkedIn</a> • <a href="https://instagram.com/peteraziz01">Instagram</a> • <a href="https://github.com/PeterAzizGhobrial">GitHub</a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=PeterAzizGhobrial&color=0078FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=PeterAzizGhobrial&theme=radical&hide_border=true)
+![GitHub Followers](https://img.shields.io/github/followers/PeterAzizGhobrial?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/PeterAzizGhobrial?style=social)
 
 ---
 
-### 🧭 Professional Summary
+## 🚀 About Me
+I’m an **IT & Software Engineer** passionate about developing **AI-powered systems**, **mobile and web applications**, and **network solutions** that make technology smarter and more accessible.  
 
-I am a passionate and detail-oriented **Software & IT Engineer** with strong expertise in **AI-driven development**, **mobile applications**, and **network systems**.  
-With hands-on experience across the entire software lifecycle — from idea to deployment — I thrive at the intersection of **innovation, performance, and impact**.
+With a strong background in **software engineering**, **AI**, and **network infrastructure**, I focus on transforming technical ideas into scalable, human-centered solutions. I thrive in agile environments that merge creativity, logic, and innovation.
 
-- 🧠 Focus Areas: AI • Software Engineering • Mobile & Web Systems • Networking  
-- 🌍 Core Mission: Build scalable, smart, and human-centered technologies  
-- 🤝 Open To: Collaborations, startups, and research projects  
+✨ **Key Interests:** AI Applications, Real-Time Systems, Cloud Platforms, Healthcare Tech, and Mobile Engineering.  
+🎯 **Career Goal:** Lead cutting-edge development that connects people through intelligent systems.  
 
----
-
-### 🧠 Technical Expertise
-
-| Domain | Tools & Technologies |
-|:--------|:--------------------|
-| **Programming** | Python 🐍 · C++ ⚙️ · Dart 💎 · Java ☕ |
-| **Web Development** | HTML · CSS · JavaScript · PHP · Laravel |
-| **Mobile Apps** | Flutter · Firebase · REST APIs |
-| **AI / Computer Vision** | TensorFlow Lite · OpenCV · YOLO |
-| **Networking** | CCNA · TCP/IP · VLANs · Routing · Switching |
-| **Database Systems** | MySQL |
-| **Version Control** | Git · GitHub |
-| **Operating Systems** | Windows · Linux |
+![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-00C853?style=flat&logo=artificial-intelligence&logoColor=white)
+![Flutter Developer](https://img.shields.io/badge/-Flutter%20Developer-02569B?style=flat&logo=flutter&logoColor=white)
+![Network Specialist](https://img.shields.io/badge/-Network%20Engineer-007ACC?style=flat&logo=cisco&logoColor=white)
 
 ---
 
-### 🚀 Flagship Project
+## 🛠️ Technical Skills
 
-#### 🩺 **AI-Based Burn Detection & Classification System**
-> A real-time mobile healthcare solution powered by deep learning.
+### 💻 Programming Languages  
+- Python 🐍  
+- C++ ⚙️  
+- Dart (Flutter) 💎  
+- Java ☕  
 
-- Engineered a **CNN + YOLO-based model** for medical image classification.  
-- Integrated the trained model into a **Flutter Android app** for instant diagnosis.  
-- Trained with hospital-acquired datasets across diverse skin tones.  
-- Improved accuracy, reduced diagnostic time, and enhanced accessibility for remote care.  
+### 🌐 Web Development  
+- HTML / CSS / JavaScript / PHP / Laravel  
+
+### 📱 Mobile Development  
+- Flutter / Firebase / REST APIs  
+
+### 🤖 AI & Computer Vision  
+- OpenCV / TensorFlow Lite / YOLO  
+
+### 🌍 Networking  
+- CCNA Knowledge / Routing / Switching / TCP/IP / VLANs  
+
+### 🗄️ Databases  
+- MySQL  
+
+### ⚙️ Tools & Systems  
+- Git / GitHub / Windows / Linux  
+
+---
+
+## 💼 Professional Experience  
+
+### 🖥️ IT Support Intern – *Local Tech Projects* (2024–2025)
+- Supported troubleshooting, hardware, and software maintenance.  
+- Optimized system performance and documented technical workflows.  
+- Delivered reliable IT solutions across daily operations.  
+
+### 🌐 Network Trainee – *Huawei, Cairo*  
+- Practiced enterprise routing and VLAN configuration.  
+- Tested connectivity, network design, and IP management.  
+- Strengthened real-world infrastructure and diagnostic skills.  
+
+---
+
+## 🎓 Education  
+
+**B.Sc. in Information Technology & Computer Science**  
+📘 *Sinai University* — Expected July 2025  
+🎓 GPA: 3.2 / 4.0  
+
+### 🔬 Graduation Project — *AI-Based Burn Detection & Classification System*  
+- Built a deep-learning model using **CNN** + **YOLO** for burn severity classification.  
+- Integrated the model into a **Flutter Android app** for real-time diagnostics.  
+- Enhanced accessibility for emergency medical analysis and reduced diagnosis time.  
 
 🧩 *Tech Stack:* Python · TensorFlow Lite · Flutter · Firebase · OpenCV  
 
 ---
 
-### 💼 Professional Experience
+## 🧾 Certifications  
 
-#### 🖥️ IT Support Intern — *Local Tech Projects (2024–2025)*
-- Supported network setup, troubleshooting, and system optimization.  
-- Delivered comprehensive IT assistance across multiple environments.  
-- Documented and automated repetitive support processes.
-
-#### 🌐 Network Trainee — *Huawei, Cairo*
-- Designed and tested **enterprise-grade VLANs and routing topologies**.  
-- Strengthened hands-on experience in **IP addressing** and **connectivity management**.  
-- Enhanced team efficiency through real-world lab simulations.
+- Cisco CCNA: Introduction to Networks (2024)  
+- Cisco IT Essentials (2024)  
+- Huawei Network Training (2025)  
+- CompTIA Network+ *(In Progress — 2025)*  
+- Financial Modeling & Excel — Coursera (2024)  
 
 ---
 
-### 🏅 Certifications
+## 💬 Soft Skills  
 
-🏆 Cisco **CCNA: Introduction to Networks** (2024)  
-🏆 Cisco **IT Essentials** (2024)  
-🏆 Huawei **Network Training** (2025)  
-🏆 CompTIA **Network+** *(In Progress — 2025)*  
-🏆 **Financial Modeling & Excel** — Coursera (2024)  
+Communication • Leadership • Team Collaboration • Problem Solving • Creativity • Agile Mindset • Decision Making • Adaptability • Time Management  
 
 ---
 
-### 🎓 Education
+## 📈 GitHub Stats  
 
-**Bachelor of Science in Information Technology & Computer Science**  
-🧭 *Sinai University* — *Expected July 2025*  
-📊 GPA: 3.2 / 4.0  
-
----
-
-### 🧩 Soft Skills
-
-> _"Technical ability is nothing without adaptability and collaboration."_  
-
-💬 Communication | 💡 Problem Solving | 🧭 Leadership | ⚙️ Analytical Thinking | 🤝 Team Collaboration | ⏱️ Time Management | 🎨 Creativity | 🚀 Fast Learning | 🧠 Decision Making  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterAzizGhobrial&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterAzizGhobrial&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PeterAzizGhobrial&theme=radical&row=1)
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="mailto:b.ayad3755@su.edu.eg"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" /></a>
-  <a href="https://cut.sa/e5tjl"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
-  <a href="https://instagram.com/peteraziz01"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" /></a>
-  <a href="https://github.com/PeterAzizGhobrial"><img src="https://img.icons8.com/ios-filled/48/github.png" width="40" /></a>
-</p>
+📧 **Email:** [b.ayad3755@su.edu.eg](mailto:b.ayad3755@su.edu.eg)  
+🔗 **LinkedIn:** [linkedin.com/in/peterazizghobrial](https://cut.sa/e5tjl)  
+📸 **Instagram:** [instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
+💻 **GitHub:** [github.com/PeterAzizGhobrial](https://github.com/PeterAzizGhobrial)
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterAzizGhobrial&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&card_width=450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PeterAzizGhobrial&theme=transparent&hide_border=true&card_width=450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterAzizGhobrial&layout=compact&theme=transparent&hide_border=true&card_width=450" />
-</p>
-
----
-
-### 💬 Quote I Live By
-
-> _“Technology isn’t just about solving problems — it’s about empowering people to do more.”_  
+> _“Technology is best when it brings people together.”_  
 > — **Peter Aziz Ghobrial**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=100&section=footer"/>
-</p>
