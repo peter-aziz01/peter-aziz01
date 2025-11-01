@@ -3,13 +3,13 @@
 
 🌍 **Location:** Alexandria, Egypt  
 📧 **Email:** b.ayad3755@su.edu.eg  
-🔗 **LinkedIn:** [https://cut.sa/e5tjl](https://cut.sa/e5tjl)  
-📸 **Instagram:** [https://instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
-💻 **GitHub:** [github.com/PeterAzizGhobrial](https://github.com/PeterAzizGhobrial)
+🔗 **LinkedIn:** [linkedin.com/in/peterazizghobrial](https://cut.sa/e5tjl)  
+📸 **Instagram:** [instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
+💻 **GitHub:** [github.com/peter-aziz01](https://github.com/peter-aziz01)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PeterAzizGhobrial&color=0078FF)
-![GitHub Followers](https://img.shields.io/github/followers/PeterAzizGhobrial?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/PeterAzizGhobrial?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=peter-aziz01&color=0078FF)
+![GitHub Followers](https://img.shields.io/github/followers/peter-aziz01?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/peter-aziz01?style=social)
 
 ---
 
@@ -102,15 +102,14 @@ Communication • Leadership • Team Collaboration • Problem Solving • Crea
 
 ## 📈 GitHub Stats  
 
-<!-- These cards are from github-readme-stats; they work reliably when the username is correct -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterAzizGhobrial&show_icons=true&theme=radical" alt="Peter's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peter-aziz01&show_icons=true&theme=radical" alt="Peter's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterAzizGhobrial&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-aziz01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PeterAzizGhobrial&theme=radical&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=peter-aziz01&theme=radical&row=1" alt="Trophies" />
 </p>
 
 ---
@@ -118,9 +117,9 @@ Communication • Leadership • Team Collaboration • Problem Solving • Crea
 ## 🌐 Connect with Me  
 
 📧 **Email:** [b.ayad3755@su.edu.eg](mailto:b.ayad3755@su.edu.eg)  
-🔗 **LinkedIn:** [https://cut.sa/e5tjl](https://cut.sa/e5tjl)  
-📸 **Instagram:** [https://instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
-💻 **GitHub:** [https://github.com/PeterAzizGhobrial](https://github.com/PeterAzizGhobrial)
+🔗 **LinkedIn:** [linkedin.com/in/peterazizghobrial](https://cut.sa/e5tjl)  
+📸 **Instagram:** [instagram.com/peteraziz01](https://instagram.com/peteraziz01)  
+💻 **GitHub:** [github.com/peter-aziz01](https://github.com/peter-aziz01)
 
 ---
 
